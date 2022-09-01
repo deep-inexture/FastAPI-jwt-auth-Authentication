@@ -1,4 +1,5 @@
 Features
+ -
 
 FastAPI extension that provides JWT Auth support (secure, easy to use and lightweight), if you were familiar with flask-jwt-extended this extension suitable for you, cause this extension inspired by flask-jwt-extended grinning
 
