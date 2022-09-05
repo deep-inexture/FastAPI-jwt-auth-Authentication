@@ -28,4 +28,4 @@ Helpful Documentation URLs:
  - https://pypi.org/project/fastapi-jwt-auth/
  - https://indominusbyte.github.io/fastapi-jwt-auth/contributing/
  - https://github.com/fastapi-users/fastapi-users/issues/820
- - https://github.com/IndominusByte/fastapi-jwt-auth# FastAPI-jwt-auth-Authentication
+ - https://github.com/IndominusByte/fastapi-jwt-auth#
